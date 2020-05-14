@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "coder",
+      "authorEmail": "coder@1dea.ru",
+      "authorUrl": ""
+    }
+  }
+}
